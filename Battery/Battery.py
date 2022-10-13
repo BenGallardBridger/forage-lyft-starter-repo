@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-class Engine(ABC):
+class Battery(ABC):
     def __init__(self):
         pass
     @abstractmethod
